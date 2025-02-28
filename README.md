@@ -175,9 +175,8 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 
 ## Diagramas:
-
+![Untitled diagram-2025-02-28-182907](https://github.com/user-attachments/assets/03e9e17d-a725-42ae-ba7c-2c19c1ec4187)
 ![Untitled diagram-2025-02-28-182414](https://github.com/user-attachments/assets/2d9701dc-fc7f-49e5-afb6-57524a89bbf5)
-![Untitled diagram-2025-02-28-182429](https://github.com/user-attachments/assets/08642f1e-61bb-4fa0-9776-ff13c2cbddc7)
 ![Untitled diagram-2025-02-28-182344](https://github.com/user-attachments/assets/10d4345c-e054-448b-82ef-4cb5fbd46bfd)
 ```
 
