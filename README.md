@@ -1,5 +1,3 @@
-Segue abaixo o exemplo completo do README.md com os textos e indicações para onde inserir os diagramas:
-
 ```markdown
 # Study List App
 
