@@ -1,0 +1,33 @@
+/* Container geral */
+.progress-bar-container {
+    margin-top: 20px;
+    text-align: center;
+  }
+  
+  /* Fundo da barra */
+  .progress-bar-bg {
+    width: 100%;
+    max-width: 400px;           /* Largura máxima para não ficar muito extensa */
+    height: 10px;               /* Altura da barra (mais fina) */
+    background-color: #e0e0de;  /* Cinza claro */
+    border-radius: 10px;        /* Cantos arredondados */
+    overflow: hidden;
+    margin: 0 auto;             /* Centraliza horizontalmente */
+    position: relative;         /* Pode ajudar se quisermos efeitos adicionais */
+  }
+  
+  /* Parte preenchida da barra */
+  .progress-bar-fill {
+    height: 100%;
+    background-color: #4caf50;  /* Cor verde */
+    transition: width 0.3s ease;
+    border-radius: 10px;        /* Mantém o arredondamento ao preencher */
+  }
+  
+  /* Texto do percentual */
+  .progress-text {
+    margin-top: 5px;
+    font-weight: bold;
+    color: #333;
+  }
+  
