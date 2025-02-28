@@ -33,9 +33,7 @@ function App() {
     });
     const newTask = await response.json();
     
-    // Adiciona a nova tarefa ao estado
     setTasks((prevTasks) => [...prevTasks, newTask]);
-    // Marca o ID dessa tarefa como "nova" para animar
     setNewlyCreatedTasks((prev) => [...prev, newTask.id]);
   };
 
@@ -55,12 +53,10 @@ function App() {
     fetchTasks();
   };
 
-  // Callback para remover o ID da lista de "novas tarefas" depois que a animação terminar
   const handleNewTaskAnimationEnd = (taskId) => {
     setNewlyCreatedTasks((prev) => prev.filter((id) => id !== taskId));
   };
 
-  // Cálculo do progresso
   const completedTasksCount = tasks.filter((task) => task.completed).length;
   const progress = tasks.length ? (completedTasksCount / tasks.length) * 100 : 0;
 
