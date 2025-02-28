@@ -166,9 +166,3 @@ Sinta-se à vontade para enviar sugestões, relatar problemas ou contribuir com 
 ## Licença
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
-
-```
-
----
-
-Este README.md oferece uma visão geral completa do funcionamento do sistema, da estrutura de pastas, dos endpoints da API, das tecnologias utilizadas e dos efeitos visuais implementados. Basta salvar este conteúdo em um arquivo `README.md` na raiz do projeto.#
