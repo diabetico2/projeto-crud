@@ -149,9 +149,6 @@ ul li button:last-of-type:hover {
   margin-top: 5px;
   font-weight: bold;
 }
-/* =========================
-   Animação de "quebra"
-   ========================= */
    @keyframes pixel-break {
     0% {
       opacity: 1;
@@ -181,13 +178,10 @@ ul li button:last-of-type:hover {
     }
   }
   
-  /* Classe que aplica a animação ao remover */
   .removing {
-    animation: pixel-break 0.8s forwards; /* 0.8s = duração da animação */
+    animation: pixel-break 0.8s forwards; 
   }
-  /* ================================
-   Animação de entrada (pop in)
-   ================================ */
+  /*  Animação de entrada (pop in)*/
 @keyframes pop-in {
   0% {
     transform: scale(0.5);
@@ -207,9 +201,7 @@ ul li button:last-of-type:hover {
   animation: pop-in 0.4s ease forwards;
 }
 
-/* =================================
-   Animação de "quebra" (removendo)
-   ================================= */
+/* Animação de "quebra" (removendo) */
 @keyframes pixel-break {
   0% {
     opacity: 1;
@@ -239,21 +231,6 @@ ul li button:last-of-type:hover {
   }
 }
 
-/* Aplica a animação de remoção */
 .removing {
   animation: pixel-break 0.8s forwards;
-}
-
-/* Responsividade */
-@media (max-width: 600px) {
-  form, .container > div {
-    flex-direction: column;
-  }
-  
-  form input[type="text"],
-  form select,
-  .container > div input[type="text"],
-  .container > div select {
-    width: 100%;
-  }
 }
