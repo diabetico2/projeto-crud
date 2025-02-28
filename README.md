@@ -1,6 +1,4 @@
-Segue um exemplo de um arquivo README.md documentando o funcionamento do projeto:
-
----
+Segue abaixo o exemplo completo do README.md com os textos e indicações para onde inserir os diagramas:
 
 ```markdown
 # Study List App
@@ -49,6 +47,14 @@ project-root/
     │   └── index.js
     └── package.json
 ```
+
+## Diagramas
+
+**Insira diagrama de classe aqui**
+
+**Insira diagrama de sequência aqui**
+
+**Insira diagrama de casos de uso aqui**
 
 ## Tecnologias Utilizadas
 
@@ -166,3 +172,12 @@ Sinta-se à vontade para enviar sugestões, relatar problemas ou contribuir com 
 ## Licença
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
+
+
+## Diagramas:
+
+![Untitled diagram-2025-02-28-182414](https://github.com/user-attachments/assets/2d9701dc-fc7f-49e5-afb6-57524a89bbf5)
+![Untitled diagram-2025-02-28-182429](https://github.com/user-attachments/assets/08642f1e-61bb-4fa0-9776-ff13c2cbddc7)
+![Untitled diagram-2025-02-28-182344](https://github.com/user-attachments/assets/10d4345c-e054-448b-82ef-4cb5fbd46bfd)
+```
+
