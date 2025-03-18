@@ -14,7 +14,6 @@ Uma aplicação web simples para estudantes criarem e gerenciarem listas de estu
 - **Filtrar Tarefas:** Filtre por nome ou prioridade (baixo, médio, alto).
 - **Remover Tarefas:** Com uma animação de “quebra” (pixel glitch).
 - **Exibir Progresso:** Visualize o percentual de tarefas concluídas através de uma barra de progresso animada.
-- **Visual Moderno:** Interface simples, responsiva e com animações suaves.
 
 ## Estrutura do Projeto
 
