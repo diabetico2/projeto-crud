@@ -169,7 +169,7 @@ Sinta-se à vontade para enviar sugestões, relatar problemas ou contribuir com 
 
 ## Licença
 
-Este projeto está licenciado sob a [MIT License](LICENSE).
+Este projeto não possui licensa, pois é totalmente feito para faculdade
 
 
 ## Diagramas:
